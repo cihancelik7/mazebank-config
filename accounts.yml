@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Maze Bank Accounts related local APIs"
+  message: "Welcome to Maze Bank Accounts related docker APIs"
   contactDetails:
     name: "Cihan Celik - Developer"
     email: "{cipher}f83ac5a32fe3ff44qsfrfg444ngirit55w4ididaadc432325mbbb9ytk43cc321344vv"
